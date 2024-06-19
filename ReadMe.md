@@ -21,7 +21,7 @@ Imaginator is a simple Python tool that allows you to encrypt and decrypt image 
 2. **Clone the Repository:**
 
    ```bash
-   git clone [https://github.com/](https://github.com/)kinzi-c/imaginator.git
+   git clone https://github.com/Kinzi-c/imaginator.git
 
    ```
 
